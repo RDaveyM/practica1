@@ -147,7 +147,7 @@ header a:hover{
    }
 
     
-   #search-container{
+    #search-container{
        display: none;
    }
  .imagen_container h1{
@@ -157,14 +157,14 @@ header a:hover{
  }
     .imagen_container p{
         font-size: 1.5vh;
-        padding-bottom: 200px;
+        padding-bottom: 50px;
         max-width: 70%;
     }
 
     .imagen_container button{
         font-size: 3vh;
         margin-top: 0;
-        margin-bottom:300px
+        margin-bottom:200px
     }
 
     .imagen_container{
