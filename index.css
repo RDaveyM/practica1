@@ -145,6 +145,26 @@ header a:hover{
    #search-container{
        display: none;
    }
+
+    
+   #search-container{
+       display: none;
+   }
+ .imagen_container h1{
+     font-size: 3vh;
+     
+ }
+    .imagen_container p{
+        font-size: 1.5vh;
+        padding-bottom: 200px;
+        max-width: 70%;
+    }
+
+    .imagen_container button{
+        font-size: 3vh;
+        margin-top: 0;
+        margin-bottom:300px
+    }
 }
 
 
